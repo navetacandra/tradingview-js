@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A package to get tradingview chart data by symbol",
   "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
