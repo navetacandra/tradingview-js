@@ -1,0 +1,26 @@
+{
+  "name": "@navetacandra/tradingview",
+  "version": "0.0.1",
+  "description": "A package to get tradingview chart data by symbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:/navetacandra/tradingview-js"
+  },
+  "keywords": [
+    "trade",
+    "tradingview",
+    "chart",
+    "economy",
+    "stocks"
+  ],
+  "author": "navetacandra <dev@navetacandraa.my.id>",
+  "license": "MIT",
+  "dependencies": {
+    "ky": "^1.8.1",
+    "ws": "^8.18.2"
+  }
+}

@@ -1,0 +1,1042 @@
+{
+  "USD": {
+    "symbol": "USD",
+    "description": "US Dollar"
+  },
+  "1INCH": {
+    "symbol": "1INCH",
+    "description": "1inch Network"
+  },
+  "AAVE": {
+    "symbol": "AAVE",
+    "description": "Aave"
+  },
+  "ADA": {
+    "symbol": "ADA",
+    "description": "Cardano"
+  },
+  "AED": {
+    "symbol": "AED",
+    "description": "United Arab Emirates Dirham"
+  },
+  "AFN": {
+    "symbol": "AFN",
+    "description": "Afghan Afghani"
+  },
+  "ALGO": {
+    "symbol": "ALGO",
+    "description": "Algorand"
+  },
+  "ALL": {
+    "symbol": "ALL",
+    "description": "Albanian Lek"
+  },
+  "AMD": {
+    "symbol": "AMD",
+    "description": "Armenian Dram"
+  },
+  "ANG": {
+    "symbol": "ANG",
+    "description": "Netherlands Antillean Guilder"
+  },
+  "ANKR": {
+    "symbol": "ANKR",
+    "description": "Ankr"
+  },
+  "AOA": {
+    "symbol": "AOA",
+    "description": "Angolan Kwanza"
+  },
+  "ARS": {
+    "symbol": "ARS",
+    "description": "Argentine Peso"
+  },
+  "ATOM": {
+    "symbol": "ATOM",
+    "description": "Cosmos"
+  },
+  "ATS": {
+    "symbol": "ATS",
+    "description": "Austrian Schilling"
+  },
+  "AUD": {
+    "symbol": "AUD",
+    "description": "Australian Dollar"
+  },
+  "AVAX": {
+    "symbol": "AVAX",
+    "description": "Avalanche"
+  },
+  "AWG": {
+    "symbol": "AWG",
+    "description": "Aruban Florin"
+  },
+  "AXS": {
+    "symbol": "AXS",
+    "description": "Axie Infinity"
+  },
+  "AZN": {
+    "symbol": "AZN",
+    "description": "Azerbaijani Manat"
+  },
+  "BAM": {
+    "symbol": "BAM",
+    "description": "Bosnia-Herzegovina Convertible Mark"
+  },
+  "BAT": {
+    "symbol": "BAT",
+    "description": "Basic Attention Token"
+  },
+  "BBD": {
+    "symbol": "BBD",
+    "description": "Barbadian Dollar"
+  },
+  "BCH": {
+    "symbol": "BCH",
+    "description": "Bitcoin Cash"
+  },
+  "BDT": {
+    "symbol": "BDT",
+    "description": "Bangladeshi Taka"
+  },
+  "BEF": {
+    "symbol": "BEF",
+    "description": "Belgian Franc"
+  },
+  "BGN": {
+    "symbol": "BGN",
+    "description": "Bulgarian Lev"
+  },
+  "BHD": {
+    "symbol": "BHD",
+    "description": "Bahraini Dinar"
+  },
+  "BIF": {
+    "symbol": "BIF",
+    "description": "Burundian Franc"
+  },
+  "BMD": {
+    "symbol": "BMD",
+    "description": "Bermudan Dollar"
+  },
+  "BNB": {
+    "symbol": "BNB",
+    "description": "BNB"
+  },
+  "BND": {
+    "symbol": "BND",
+    "description": "Brunei Dollar"
+  },
+  "BNT": {
+    "symbol": "BNT",
+    "description": "Bancor"
+  },
+  "BOB": {
+    "symbol": "BOB",
+    "description": "Bolivian Boliviano"
+  },
+  "BRL": {
+    "symbol": "BRL",
+    "description": "Brazilian Real"
+  },
+  "BSD": {
+    "symbol": "BSD",
+    "description": "Bahamian Dollar"
+  },
+  "BSV": {
+    "symbol": "BSV",
+    "description": "Bitcoin SV"
+  },
+  "BTC": {
+    "symbol": "BTC",
+    "description": "Bitcoin"
+  },
+  "BTN": {
+    "symbol": "BTN",
+    "description": "Bhutanese Ngultrum"
+  },
+  "BWP": {
+    "symbol": "BWP",
+    "description": "Botswanan Pula"
+  },
+  "BYN": {
+    "symbol": "BYN",
+    "description": "Belarusian Ruble"
+  },
+  "BZD": {
+    "symbol": "BZD",
+    "description": "Belize Dollar"
+  },
+  "CAD": {
+    "symbol": "CAD",
+    "description": "Canadian Dollar"
+  },
+  "CAKE": {
+    "symbol": "CAKE",
+    "description": "PancakeSwap"
+  },
+  "CDF": {
+    "symbol": "CDF",
+    "description": "Congolese Franc"
+  },
+  "CHF": {
+    "symbol": "CHF",
+    "description": "Swiss Franc"
+  },
+  "CKB": {
+    "symbol": "CKB",
+    "description": "Nervos Network"
+  },
+  "CLF": {
+    "symbol": "CLF",
+    "description": "Chilean Unit of Account (UF)"
+  },
+  "CLP": {
+    "symbol": "CLP",
+    "description": "Chilean Peso"
+  },
+  "CNH": {
+    "symbol": "CNH",
+    "description": "Offshore Yuan Renminbi"
+  },
+  "CNY": {
+    "symbol": "CNY",
+    "description": "Chinese Yuan"
+  },
+  "COMP": {
+    "symbol": "COMP",
+    "description": "Compound"
+  },
+  "COP": {
+    "symbol": "COP",
+    "description": "Colombian Peso"
+  },
+  "COTI": {
+    "symbol": "COTI",
+    "description": "COTI"
+  },
+  "CRC": {
+    "symbol": "CRC",
+    "description": "Costa Rican Colón"
+  },
+  "CRV": {
+    "symbol": "CRV",
+    "description": "Curve DAO Token"
+  },
+  "CUP": {
+    "symbol": "CUP",
+    "description": "Cuban Peso"
+  },
+  "CVE": {
+    "symbol": "CVE",
+    "description": "Cape Verdean Escudo"
+  },
+  "CZK": {
+    "symbol": "CZK",
+    "description": "Czech Koruna"
+  },
+  "DAI": {
+    "symbol": "DAI",
+    "description": "Dai"
+  },
+  "DEM": {
+    "symbol": "DEM",
+    "description": "German Mark"
+  },
+  "DFI": {
+    "symbol": "DFI",
+    "description": "DeFiChain"
+  },
+  "DJF": {
+    "symbol": "DJF",
+    "description": "Djiboutian Franc"
+  },
+  "DKK": {
+    "symbol": "DKK",
+    "description": "Danish Krone"
+  },
+  "DOGE": {
+    "symbol": "DOGE",
+    "description": "Dogecoin"
+  },
+  "DOP": {
+    "symbol": "DOP",
+    "description": "Dominican Peso"
+  },
+  "DOT": {
+    "symbol": "DOT",
+    "description": "Polkadot"
+  },
+  "DZD": {
+    "symbol": "DZD",
+    "description": "Algerian Dinar"
+  },
+  "EGLD": {
+    "symbol": "EGLD",
+    "description": "MultiversX"
+  },
+  "EGP": {
+    "symbol": "EGP",
+    "description": "Egyptian Pound"
+  },
+  "EOS": {
+    "symbol": "EOS",
+    "description": "EOS"
+  },
+  "ERN": {
+    "symbol": "ERN",
+    "description": "Eritrean Nakfa"
+  },
+  "ESP": {
+    "symbol": "ESP",
+    "description": "Spanish Peseta"
+  },
+  "ETB": {
+    "symbol": "ETB",
+    "description": "Ethiopian Birr"
+  },
+  "ETC": {
+    "symbol": "ETC",
+    "description": "Ethereum Classic"
+  },
+  "ETH": {
+    "symbol": "ETH",
+    "description": "Ethereum"
+  },
+  "ETHDYDX": {
+    "symbol": "ETHDYDX",
+    "description": "dYdX (ethDYDX)"
+  },
+  "EUR": {
+    "symbol": "EUR",
+    "description": "Euro"
+  },
+  "FIL": {
+    "symbol": "FIL",
+    "description": "Filecoin"
+  },
+  "FIM": {
+    "symbol": "FIM",
+    "description": "Finnish Markka"
+  },
+  "FJD": {
+    "symbol": "FJD",
+    "description": "Fijian Dollar"
+  },
+  "FRF": {
+    "symbol": "FRF",
+    "description": "French Franc"
+  },
+  "FTM": {
+    "symbol": "FTM",
+    "description": "Fantom"
+  },
+  "FTT": {
+    "symbol": "FTT",
+    "description": "FTX Token"
+  },
+  "FXS": {
+    "symbol": "FXS",
+    "description": "Frax Share"
+  },
+  "GBP": {
+    "symbol": "GBP",
+    "description": "British Pound"
+  },
+  "GBX": {
+    "symbol": "GBX",
+    "description": "Pence Sterling"
+  },
+  "GEL": {
+    "symbol": "GEL",
+    "description": "Georgian Lari"
+  },
+  "GHS": {
+    "symbol": "GHS",
+    "description": "Ghanaian Cedi"
+  },
+  "GIP": {
+    "symbol": "GIP",
+    "description": "Gibraltar Pound"
+  },
+  "GMD": {
+    "symbol": "GMD",
+    "description": "Gambian Dalasi"
+  },
+  "GNF": {
+    "symbol": "GNF",
+    "description": "Guinean Franc"
+  },
+  "GNO": {
+    "symbol": "GNO",
+    "description": "Gnosis"
+  },
+  "GRD": {
+    "symbol": "GRD",
+    "description": "Greek Drachma"
+  },
+  "GRT": {
+    "symbol": "GRT",
+    "description": "The Graph"
+  },
+  "GTQ": {
+    "symbol": "GTQ",
+    "description": "Guatemalan Quetzal"
+  },
+  "GYD": {
+    "symbol": "GYD",
+    "description": "Guyanaese Dollar"
+  },
+  "HBAR": {
+    "symbol": "HBAR",
+    "description": "Hedera"
+  },
+  "HIT": {
+    "symbol": "HIT",
+    "description": "HitChain"
+  },
+  "HKD": {
+    "symbol": "HKD",
+    "description": "Hong Kong Dollar"
+  },
+  "HNL": {
+    "symbol": "HNL",
+    "description": "Honduran Lempira"
+  },
+  "HNT": {
+    "symbol": "HNT",
+    "description": "Helium"
+  },
+  "HOT": {
+    "symbol": "HOT",
+    "description": "Holo"
+  },
+  "HTG": {
+    "symbol": "HTG",
+    "description": "Haitian Gourde"
+  },
+  "HUF": {
+    "symbol": "HUF",
+    "description": "Hungarian Forint"
+  },
+  "ICP": {
+    "symbol": "ICP",
+    "description": "Internet Computer"
+  },
+  "IDR": {
+    "symbol": "IDR",
+    "description": "Indonesian Rupiah"
+  },
+  "IEP": {
+    "symbol": "IEP",
+    "description": "Irish Pound"
+  },
+  "ILA": {
+    "symbol": "ILA",
+    "description": "Israeli Agorot"
+  },
+  "ILS": {
+    "symbol": "ILS",
+    "description": "Israeli New Shekel"
+  },
+  "INR": {
+    "symbol": "INR",
+    "description": "Indian Rupee"
+  },
+  "IOTA": {
+    "symbol": "IOTA",
+    "description": "IOTA"
+  },
+  "IQD": {
+    "symbol": "IQD",
+    "description": "Iraqi Dinar"
+  },
+  "IRR": {
+    "symbol": "IRR",
+    "description": "Iranian Rial"
+  },
+  "ISK": {
+    "symbol": "ISK",
+    "description": "Icelandic Króna"
+  },
+  "ITL": {
+    "symbol": "ITL",
+    "description": "Italian Lira"
+  },
+  "JMD": {
+    "symbol": "JMD",
+    "description": "Jamaican Dollar"
+  },
+  "JOD": {
+    "symbol": "JOD",
+    "description": "Jordanian Dinar"
+  },
+  "JPY": {
+    "symbol": "JPY",
+    "description": "Japanese Yen"
+  },
+  "KAVA": {
+    "symbol": "KAVA",
+    "description": "Kava"
+  },
+  "KEEP": {
+    "symbol": "KEEP",
+    "description": "Keep Network"
+  },
+  "KES": {
+    "symbol": "KES",
+    "description": "Kenyan Shilling"
+  },
+  "KGS": {
+    "symbol": "KGS",
+    "description": "Kyrgystani Som"
+  },
+  "KHR": {
+    "symbol": "KHR",
+    "description": "Cambodian Riel"
+  },
+  "KLAY": {
+    "symbol": "KLAY",
+    "description": "Klaytn"
+  },
+  "KMF": {
+    "symbol": "KMF",
+    "description": "Comorian Franc"
+  },
+  "KNC": {
+    "symbol": "KNC",
+    "description": "Kyber Network Crystal v2"
+  },
+  "KPW": {
+    "symbol": "KPW",
+    "description": "North Korean Won"
+  },
+  "KRW": {
+    "symbol": "KRW",
+    "description": "South Korean Won"
+  },
+  "KWD": {
+    "symbol": "KWD",
+    "description": "Kuwaiti Dinar"
+  },
+  "KWF": {
+    "symbol": "KWF",
+    "description": "Kuwaiti Fils"
+  },
+  "KYD": {
+    "symbol": "KYD",
+    "description": "Cayman Islands Dollar"
+  },
+  "KZT": {
+    "symbol": "KZT",
+    "description": "Kazakhstani Tenge"
+  },
+  "LAK": {
+    "symbol": "LAK",
+    "description": "Laotian Kip"
+  },
+  "LBP": {
+    "symbol": "LBP",
+    "description": "Lebanese Pound"
+  },
+  "LEO": {
+    "symbol": "LEO",
+    "description": "UNUS SED LEO"
+  },
+  "LINK": {
+    "symbol": "LINK",
+    "description": "Chainlink"
+  },
+  "LKR": {
+    "symbol": "LKR",
+    "description": "Sri Lankan Rupee"
+  },
+  "LRC": {
+    "symbol": "LRC",
+    "description": "Loopring"
+  },
+  "LRD": {
+    "symbol": "LRD",
+    "description": "Liberian Dollar"
+  },
+  "LSL": {
+    "symbol": "LSL",
+    "description": "Lesotho Loti"
+  },
+  "LTC": {
+    "symbol": "LTC",
+    "description": "Litecoin"
+  },
+  "LUF": {
+    "symbol": "LUF",
+    "description": "Luxembourgian Franc"
+  },
+  "LUNA": {
+    "symbol": "LUNA",
+    "description": "Terra"
+  },
+  "LYD": {
+    "symbol": "LYD",
+    "description": "Libyan Dinar"
+  },
+  "MAD": {
+    "symbol": "MAD",
+    "description": "Moroccan Dirham"
+  },
+  "MANA": {
+    "symbol": "MANA",
+    "description": "Decentraland"
+  },
+  "MATIC": {
+    "symbol": "MATIC",
+    "description": "Polygon"
+  },
+  "MDL": {
+    "symbol": "MDL",
+    "description": "Moldovan Leu"
+  },
+  "MGA": {
+    "symbol": "MGA",
+    "description": "Malagasy Ariary"
+  },
+  "MKD": {
+    "symbol": "MKD",
+    "description": "Macedonian Denar"
+  },
+  "MKR": {
+    "symbol": "MKR",
+    "description": "Maker"
+  },
+  "MMK": {
+    "symbol": "MMK",
+    "description": "Myanmar Kyat"
+  },
+  "MNT": {
+    "symbol": "MNT",
+    "description": "Mongolian Tugrik"
+  },
+  "MOP": {
+    "symbol": "MOP",
+    "description": "Macanese Pataca"
+  },
+  "MRU": {
+    "symbol": "MRU",
+    "description": "Ouguiya"
+  },
+  "MUR": {
+    "symbol": "MUR",
+    "description": "Mauritian Rupee"
+  },
+  "MVR": {
+    "symbol": "MVR",
+    "description": "Maldivian Rufiyaa"
+  },
+  "MWK": {
+    "symbol": "MWK",
+    "description": "Malawian Kwacha"
+  },
+  "MXN": {
+    "symbol": "MXN",
+    "description": "Mexican Peso"
+  },
+  "MXV": {
+    "symbol": "MXV",
+    "description": "Mexican Investment Unit"
+  },
+  "MYR": {
+    "symbol": "MYR",
+    "description": "Malaysian Ringgit"
+  },
+  "MZN": {
+    "symbol": "MZN",
+    "description": "Mozambican Metical"
+  },
+  "NAD": {
+    "symbol": "NAD",
+    "description": "Namibian Dollar"
+  },
+  "NEAR": {
+    "symbol": "NEAR",
+    "description": "NEAR Protocol"
+  },
+  "NGN": {
+    "symbol": "NGN",
+    "description": "Nigerian Naira"
+  },
+  "NIO": {
+    "symbol": "NIO",
+    "description": "Nicaraguan Córdoba"
+  },
+  "NLG": {
+    "symbol": "NLG",
+    "description": "Dutch Guilder"
+  },
+  "NOK": {
+    "symbol": "NOK",
+    "description": "Norwegian Krone"
+  },
+  "NPR": {
+    "symbol": "NPR",
+    "description": "Nepalese Rupee"
+  },
+  "NZD": {
+    "symbol": "NZD",
+    "description": "New Zealand Dollar"
+  },
+  "OCEAN": {
+    "symbol": "OCEAN",
+    "description": "Ocean Protocol"
+  },
+  "OMR": {
+    "symbol": "OMR",
+    "description": "Omani Rial"
+  },
+  "ONE": {
+    "symbol": "ONE",
+    "description": "Harmony"
+  },
+  "PAB": {
+    "symbol": "PAB",
+    "description": "Panamanian Balboa"
+  },
+  "PEN": {
+    "symbol": "PEN",
+    "description": "Peruvian Sol"
+  },
+  "PERP": {
+    "symbol": "PERP",
+    "description": "Perpetual Protocol"
+  },
+  "PGK": {
+    "symbol": "PGK",
+    "description": "Papua New Guinean Kina"
+  },
+  "PHP": {
+    "symbol": "PHP",
+    "description": "Philippine Peso"
+  },
+  "PKR": {
+    "symbol": "PKR",
+    "description": "Pakistani Rupee"
+  },
+  "PLN": {
+    "symbol": "PLN",
+    "description": "Polish Zloty"
+  },
+  "PTE": {
+    "symbol": "PTE",
+    "description": "Portuguese Escudo"
+  },
+  "PYG": {
+    "symbol": "PYG",
+    "description": "Paraguayan Guarani"
+  },
+  "QAR": {
+    "symbol": "QAR",
+    "description": "Qatari Rial"
+  },
+  "REN": {
+    "symbol": "REN",
+    "description": "Ren"
+  },
+  "RENBTC": {
+    "symbol": "RENBTC",
+    "description": "renBTC"
+  },
+  "REQ": {
+    "symbol": "REQ",
+    "description": "Request"
+  },
+  "RON": {
+    "symbol": "RON",
+    "description": "Romanian Leu"
+  },
+  "ROSE": {
+    "symbol": "ROSE",
+    "description": "Oasis"
+  },
+  "RSD": {
+    "symbol": "RSD",
+    "description": "Serbian Dinar"
+  },
+  "RSR": {
+    "symbol": "RSR",
+    "description": "Reserve Rights"
+  },
+  "RUB": {
+    "symbol": "RUB",
+    "description": "Russian Ruble"
+  },
+  "RUNE": {
+    "symbol": "RUNE",
+    "description": "THORChain"
+  },
+  "RWF": {
+    "symbol": "RWF",
+    "description": "Rwandan Franc"
+  },
+  "SAND": {
+    "symbol": "SAND",
+    "description": "The Sandbox"
+  },
+  "SAR": {
+    "symbol": "SAR",
+    "description": "Saudi Riyal"
+  },
+  "SBD": {
+    "symbol": "SBD",
+    "description": "Solomon Islands Dollar"
+  },
+  "SCR": {
+    "symbol": "SCR",
+    "description": "Seychellois Rupee"
+  },
+  "SCRT": {
+    "symbol": "SCRT",
+    "description": "Secret"
+  },
+  "SDG": {
+    "symbol": "SDG",
+    "description": "Sudanese Pound"
+  },
+  "SEK": {
+    "symbol": "SEK",
+    "description": "Swedish Krona"
+  },
+  "SGD": {
+    "symbol": "SGD",
+    "description": "Singapore Dollar"
+  },
+  "SHIB": {
+    "symbol": "SHIB",
+    "description": "Shiba Inu"
+  },
+  "SIT": {
+    "symbol": "SIT",
+    "description": "Slovenian Tolar"
+  },
+  "SLL": {
+    "symbol": "SLL",
+    "description": "Sierra Leonean Leone"
+  },
+  "SNX": {
+    "symbol": "SNX",
+    "description": "Synthetix"
+  },
+  "SOL": {
+    "symbol": "SOL",
+    "description": "Solana"
+  },
+  "SOS": {
+    "symbol": "SOS",
+    "description": "Somali Shilling"
+  },
+  "SRD": {
+    "symbol": "SRD",
+    "description": "Surinamese Dollar"
+  },
+  "SRM": {
+    "symbol": "SRM",
+    "description": "Serum"
+  },
+  "STN": {
+    "symbol": "STN",
+    "description": "Sao Tome and Principe dobra"
+  },
+  "SUSHI": {
+    "symbol": "SUSHI",
+    "description": "SushiSwap"
+  },
+  "SVC": {
+    "symbol": "SVC",
+    "description": "Salvadoran Colón"
+  },
+  "SXP": {
+    "symbol": "SXP",
+    "description": "Solar"
+  },
+  "SYP": {
+    "symbol": "SYP",
+    "description": "Syrian Pound"
+  },
+  "SZL": {
+    "symbol": "SZL",
+    "description": "Swazi Lilangeni"
+  },
+  "THB": {
+    "symbol": "THB",
+    "description": "Thai Baht"
+  },
+  "THETA": {
+    "symbol": "THETA",
+    "description": "Theta Network"
+  },
+  "TJS": {
+    "symbol": "TJS",
+    "description": "Tajikistani Somoni"
+  },
+  "TLOS": {
+    "symbol": "TLOS",
+    "description": "Telos"
+  },
+  "TMT": {
+    "symbol": "TMT",
+    "description": "Turkmenistani Manat"
+  },
+  "TND": {
+    "symbol": "TND",
+    "description": "Tunisian Dinar"
+  },
+  "TON": {
+    "symbol": "TON",
+    "description": "Toncoin"
+  },
+  "TOP": {
+    "symbol": "TOP",
+    "description": "Tongan Paʻanga"
+  },
+  "TRIBE": {
+    "symbol": "TRIBE",
+    "description": "Tribe"
+  },
+  "TRX": {
+    "symbol": "TRX",
+    "description": "TRON"
+  },
+  "TRY": {
+    "symbol": "TRY",
+    "description": "Turkish Lira"
+  },
+  "TTD": {
+    "symbol": "TTD",
+    "description": "Trinidad & Tobago Dollar"
+  },
+  "TWD": {
+    "symbol": "TWD",
+    "description": "New Taiwan Dollar"
+  },
+  "TZS": {
+    "symbol": "TZS",
+    "description": "Tanzanian Shilling"
+  },
+  "UAH": {
+    "symbol": "UAH",
+    "description": "Ukrainian Hryvnia"
+  },
+  "UGX": {
+    "symbol": "UGX",
+    "description": "Ugandan Shilling"
+  },
+  "UMA": {
+    "symbol": "UMA",
+    "description": "UMA"
+  },
+  "UNI": {
+    "symbol": "UNI",
+    "description": "Uniswap"
+  },
+  "USDC": {
+    "symbol": "USDC",
+    "description": "USDC"
+  },
+  "USDT": {
+    "symbol": "USDT",
+    "description": "Tether USDt"
+  },
+  "USX": {
+    "symbol": "USX",
+    "description": "U.S. Cents"
+  },
+  "UYU": {
+    "symbol": "UYU",
+    "description": "Uruguayan Peso"
+  },
+  "UZS": {
+    "symbol": "UZS",
+    "description": "Uzbekistani Som"
+  },
+  "VES": {
+    "symbol": "VES",
+    "description": "Bolívar Soberano"
+  },
+  "VET": {
+    "symbol": "VET",
+    "description": "VeChain"
+  },
+  "VND": {
+    "symbol": "VND",
+    "description": "Vietnamese Dong"
+  },
+  "VUV": {
+    "symbol": "VUV",
+    "description": "Vanuatu Vatu"
+  },
+  "WBTC": {
+    "symbol": "WBTC",
+    "description": "Wrapped Bitcoin"
+  },
+  "WST": {
+    "symbol": "WST",
+    "description": "Samoan Tala"
+  },
+  "XAF": {
+    "symbol": "XAF",
+    "description": "Central African CFA Franc"
+  },
+  "XCD": {
+    "symbol": "XCD",
+    "description": "East Caribbean Dollar"
+  },
+  "XDR": {
+    "symbol": "XDR",
+    "description": "SDR (Special Drawing Right)"
+  },
+  "XLM": {
+    "symbol": "XLM",
+    "description": "Stellar"
+  },
+  "XMR": {
+    "symbol": "XMR",
+    "description": "Monero"
+  },
+  "XOF": {
+    "symbol": "XOF",
+    "description": "West African CFA Franc"
+  },
+  "XPF": {
+    "symbol": "XPF",
+    "description": "CFP Franc"
+  },
+  "XRP": {
+    "symbol": "XRP",
+    "description": "XRP"
+  },
+  "XTZ": {
+    "symbol": "XTZ",
+    "description": "Tezos"
+  },
+  "YER": {
+    "symbol": "YER",
+    "description": "Yemeni Rial"
+  },
+  "YFI": {
+    "symbol": "YFI",
+    "description": "yearn.finance"
+  },
+  "ZAC": {
+    "symbol": "ZAC",
+    "description": "South African Cents"
+  },
+  "ZAR": {
+    "symbol": "ZAR",
+    "description": "South African Rand"
+  },
+  "ZMW": {
+    "symbol": "ZMW",
+    "description": "Zambian Kwacha"
+  },
+  "ZRX": {
+    "symbol": "ZRX",
+    "description": "0x Protocol"
+  }
+}
